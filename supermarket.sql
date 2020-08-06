@@ -79,5 +79,142 @@ else 'middle age'
 end
 as customer_age_group
 from customer
+/*subquery-----------------------------*/
+/* subquery in WHERE clause:
+return all the sales where the customer's age >60*/
+select * from sales where customer_id in (select customer_id from customer where age >60);
+
+/* subquery in FROM clause:
+find out quantity of each product sold. Result must be: product id, name, category, quantity*/
+select a.product_id,
+		a.product_name,
+		a.category,
+		b.quantity
+from product as a
+left join
+(select product_id, sum(quantity) as quantity from sales group by product_id) as b
+on a.product_id = b.product_id
+order by b.quantity DESC;
+
+/* subquery in SELECT clause: The same as LEFT JOINT! 
+Note that JOIN has lower cost rather than supqueries.
+Find order_line and customer_id and customer_name:*/
+
+select customer_id, order_line, 
+(select customer_name from customer where customer.customer_id= sales.customer_id )
+from sales
+order by customer_id;
+
+
+/*Exercise:
+Get data with all columns of sales table, and customer name, customer
+age, product name and category are in the same result set. (use JOIN in
+subquery)
+*/
+/*solution1 */
+select cust.customer_name, cust.age, s.* , prod.product_name,prod.category
+from sales as s 
+left join (select customer_id, customer_name, age from customer) as cust
+on s.customer_id = cust.customer_id
+left join (select product_id, product_name, category from product) as prod
+on s.product_id = prod.product_id;
+
+/*another solution2:*/
+select c.customer_name, c.age, sp.* from
+customer as c
+right join (select s.*, p.product_name, p.category
+from sales as s
+left join product as p
+on s.product_id = p.product_id) as sp
+on c.customer_id = sp.customer_id;
+
+
+
+/*JOIN ---------------------------------*/
+/* First create two sub tables: */
+/*Creating sales table of year 2015*/
+
+Create table sales_2015 as select * from sales where ship_date between '2015-01-01' and '2015-12-31';
+select count(*) from sales_2015; --2131
+select count(distinct customer_id) from sales_2015;--578
+
+/* Customers with age between 20 and 60 */
+create table customer_20_60 as select * from customer where age between 20 and 60;
+select count (*) from customer_20_60;--597
+
+
+SELECT 
+a.order_line,
+a.product_id,
+a.customer_id,
+a.sales,
+b.customer_name,
+b.age
+from sales_2015 as a
+inner join customer_20_60 as b
+on a.customer_id = b.customer_id
+order by customer_id;
+
+/* CROSS Example:*/
+
+create table month_values (MM integer);
+create table year_values (YYYY integer);
+
+insert into month_values values (1),(2),(3),(4),(5),(6),(7),(8),(9),(10),(11),(12);
+insert into year_values values (2011),(2012),(2013),(2014),(2015),(2016),(2017),(2018),(2019),(2020);
+	
+select y.*, m.* 
+from year_values as y, month_values as m;
+
+
+/*EXCEPT:
+Return all rows in the first SELECT clause that 
+are not returned by the second SELECT clause.*/
+
+SELECT customer_id
+FROM sales_2015
+EXCEPT
+SELECT customer_id
+FROM customer_20_60
+ORDER BY customer_id;
+
+/*UNION:
+Combine the result sets of 2 or more SELECT statements. 
+It removes duplicate rows between the various SELECT statements.
+*/
+SELECT customer_id
+FROM sales_2015
+UNION
+SELECT customer_id
+FROM customer_20_60
+ORDER BY customer_id;
+
+/*Exercise:
+Find the total sales done in every state for customer_20_60 and
+sales_2015 table*/
+
+select res.state , sum (res.sales) from (select s.*, c.state from sales_2015 as s
+inner join (select customer_id ,state from customer_20_60) as c
+on s.customer_id =c.customer_id) as res group by res.state;
+
+/*shorter solution:*/
+select b.state, sum(sales) as total_sales
+from sales_2015 as a left join customer_20_60 as b
+on a.customer_id = b.customer_id
+group by b.state;
+
+/*Get data containing Product_id, product name, category, total sales
+value of that product and total quantity sold. (Use sales and product
+table)
+*/
+
+select p.Product_id, p.product_name, p.category, res.total_sales, res.total_quantity from product as p
+right join (select s.product_id, sum(s.sales) as total_sales, sum(s.quantity) as total_quantity from sales as s group by s.product_id) as res
+on p.Product_id = res.product_id;
+/*another solution*/
+select a.*, sum(b.sales) as total_sales, sum(quantity) as total_quantity
+from product as a left join sales as b
+on a.product_id = b.product_id
+group by a.product_id;
 
 
