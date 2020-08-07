@@ -218,3 +218,83 @@ on a.product_id = b.product_id
 group by a.product_id;
 
 
+/*VIEW----------------------------*/
+/* example: give access of a small part of table to the logistic team in your company*/
+
+CREATE OR REPLACE VIEW logistics AS
+SELECT a.order_line, a.order_id, 
+b.customer_name, b.city, b.state, b.country
+From sales as a
+left join customer as b
+on a.customer_id = b.customer_id
+order by order_line;
+
+select * from logistics;
+
+drop view logistics;
+
+/*INDEX------------------------*/
+CREATE INDEX mon_indx
+on month_values(MM);
+
+/*Exercise: 
+Create a View which contains order_line, Product_id, sales and discount
+value of the first order date in the sales table and name it as
+“Daily_Billing”*/
+CREATE OR REPLACE VIEW Daily_Billing AS
+select order_date, order_line, product_id, sales, discount 
+from sales
+WHERE order_date in (select min(order_date) from sales);
+
+Drop view Daily_Billing;
+
+/*string functions----------------*/
+
+select customer_name, trim(both ' ' from customer_name) as new_name from customer
+select customer_name, upper(customer_name) as new_name from customer;
+
+
+select customer_name, city||','||state||','||country as address from customer;
+
+/* select a second string from a primary string: */
+SELECT
+Customer_id,
+Customer_name,
+SUBSTRING (Customer_id FOR 2) AS cust_group
+FROM customer
+WHERE SUBSTRING(Customer_id FOR 2) = 'AB';
+
+
+SELECT
+Customer_id,
+Customer_name,
+SUBSTRING (Customer_id FROM 4 FOR 5) AS cust_number
+FROM customer
+WHERE SUBSTRING(Customer_id FOR 2) = 'AB';
+
+SELECT  order_id, STRING_AGG(product_id, ',')
+FROM sales
+GROUP BY order_id;
+
+/*Exercise
+1-Find Maximum length of characters in the Product name string from Product table*/
+select max(res.len_char) from (select length(product_name) as len_char from product) as res;
+/* or simpler */
+select max(length(product_name)) from product;
+/*2-Retrieve product name, sub-category and category from Product table and an
+additional column named “product_details” which contains a concatenated string of
+product name, sub-category and category*/
+select product_name, sub_category, category, (product_name||','||sub_category||','||category) as product_detail from product;
+/*3-Analyze the product_id column and take out the three parts composing the product_id
+in three different columns*/
+select* from product
+select product_id, substring(product_id from 1 for 3) as prefix,
+substring(product_id from 5 for 2) as infinx, substring(product_id from 8) as postfix
+from product;
+/*4-List down comma separated product name where sub-category is either Chairs or
+Tables*/
+select string_agg(product_name,',') from product where sub_category in ('Chairs','Tables');
+
+
+
+
