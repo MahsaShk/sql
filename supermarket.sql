@@ -11,7 +11,30 @@ select distinct city, region from customer where region in ('North','East');
 using LIKE:*/
 select * from customer where customer_name like '% ____';
 
-/* ORDER BY*/
+/*pattern matching regular expression:-------------------------------*/
+SELECT * FROM customer
+WHERE customer_name ~* '^a+[a-z\s]+$';
+
+SELECT * FROM customer WHERE customer_name ~* '^(a|b|c|d)[a-z]{3}\s[a-z]{4}$' ;
+/*Exercise:
+Create a table “zipcode” and insert the below data in it. 
+Find out the valid zipcodes from this table (5 or 6 Numeric characters)*/
+ create table zipcode_table(zipcode varchar);
+ 
+ insert into zipcode_table values 
+ ('234432'),
+ ('23345'),
+ ('sdfe4'),
+ ('123&3'),
+ ('67424'),
+ ('7895432'),
+ ('12312');
+
+select * from zipcode_table
+select zipcode from zipcode_table where zipcode ~*'^[0-9]{5,6}$'
+
+
+/* ORDER BY-----------------------------------------*/
 select * from customer order by  country ASC, city DESC;
 select * from customer order by 2; -- means column index 2 that is customer_name
 
@@ -23,7 +46,7 @@ select * from sales where discount>0 order by discount DESC  limit 10;
 select customer_id as "serial Number" , customer_name as name, age as customer_age from customer
 /*serial Number is in "" because there is a space in the column name*/
 
-/*Aggregate function--------------------*/
+/*Aggregate function--------------------------------------*/
 select count(*) from sales; /* output: 9994  ->meaning 9994 rows*/
 
 /* for customer_id = 'CG-12520' count number of products ordered.
@@ -45,7 +68,7 @@ select avg(age) as "Average age of East" from customer where region = 'East' ;
 /*Find the Minimum and Maximum aged customer from Philadelphia*/
 select min(age) as "min age of Phil", max(age) as "max age of Phil" from customer where city = 'Philadelphia' ;
 
-/* Group BY-----------------------*/
+/* Group BY------------------------------------------*/
 select region , state, count(customer_id) as customer_count from customer group by region, state;
 /* quantity of each product?*/
 select product_id, sum(quantity) as quantity_sold from sales group by product_id order by quantity_sold DESC;
@@ -295,6 +318,65 @@ from product;
 Tables*/
 select string_agg(product_name,',') from product where sub_category in ('Chairs','Tables');
 
+/*Random number between a=10 and b=50--------------------------*/
+select SETSEED(0.5);
+select random(),random()*(40+1)+10, Floor(random()*(40+1)+10);
 
+/* Exercise:
+You are running a lottery for your customers. So, pick a list of 5 Lucky customers from
+customer table using random function*/
+select customer_id, RANDOM() as rnd from customer order by rnd DESC LIMIT 5;
 
+/*date and time----------------------*/
 
+select order_line, current_date,  current_time,current_time(1) from sales;
+
+select age(ship_date,order_date) as delivery from sales;
+
+select extract(epoch from ship_date)-extract(epoch from order_date) from sales;
+
+select extract(day from current_date);
+
+/*Exercise*/
+
+select age(current_date,'1939-04-06');
+
+/*Exercise
+Analyze and find out the monthly total sales of sub-category chair. Do you observe any
+seasonality in sales of this sub-category*/
+
+select  extract(month from s.order_date) as order_month, sum(s.sales) from sales as s
+left join (select sub_category,product_id from product ) as p
+on s.product_id = p.product_id
+where p.sub_category ='Chairs'
+group by order_month
+order by order_month;
+
+/*Another solution:*/
+select extract(month from order_date) as month_n, sum(sales) as total_sales from sales
+where product_id in (select product_id from product where sub_category = 'Chairs')
+group by month_n
+order by month_n ;
+
+/* Convert number/date to string:------------------------------*/
+
+SELECT sales, TO_CHAR(sales, '9999.99')
+FROM sales;
+
+SELECT sales, TO_CHAR(sales, 'L9,999.99')
+FROM sales;
+
+SELECT order_date, TO_CHAR(order_date, 'MMDDYY')
+FROM sales;
+
+SELECT order_date, TO_CHAR(order_date, 'Month DD, YYYY')
+FROM sales;
+
+/* Convert string to number/date:-----------------------------*/
+SELECT TO_DATE('033114', 'MMDDYY');
+SELECT TO_NUMBER ('$1,210.73', 'L9,999.99');
+
+/* User access------------------------------------------------*/
+SELECT * FROM pg_user;/* information of all users*/
+
+SELECT DISTINCT * FROM pg_stat_activity; /* run all activities of all logged-in users*/
