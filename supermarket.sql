@@ -380,3 +380,16 @@ SELECT TO_NUMBER ('$1,210.73', 'L9,999.99');
 SELECT * FROM pg_user;/* information of all users*/
 
 SELECT DISTINCT * FROM pg_stat_activity; /* run all activities of all logged-in users*/
+
+
+/*Performance Tunning: ------------------------*/
+/*Explain:*/
+explain select * from customer;
+
+explain verbose select distinct * from customer;
+
+
+CREATE schema test;
+create table test.customer as select * from customer;
+
+
