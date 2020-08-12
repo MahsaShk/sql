@@ -5,9 +5,9 @@ This repository includes instruction for installation of **PostgreSQL** on **Ubu
 
 SQL commands are listed and explained <a href="postgreSQL_commands.ipynb">here</a>.
 
-A simple customer table example is available <a href="customer_table.sql">here</a>.
+Query example from a customer table dataset is available <a href="customer_table.sql">here</a>.
 
-A more complex database including customer, product, and sales tables is available <a href="supermarket.sql">here</a>.
+The complex database of supermarket including customer, product, and sales tables is available <a href="supermarket.sql">here</a>.
 
 
 
