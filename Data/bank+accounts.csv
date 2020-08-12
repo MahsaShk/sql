@@ -1,0 +1,713 @@
+Date,Weekday, Amount ,AcctType,OpenedBy,Branch,Customer
+4/1/2019,Friday," 5,000 ",IRA,New Accts,Central,Existing
+4/1/2019,Friday," 10,000 ",CD,Teller,North County,Existing
+4/1/2019,Friday, 500 ,Checking,New Accts,Central,Existing
+4/1/2019,Friday," 11,779 ",CD,Teller,Central,New
+4/1/2019,Friday," 4,623 ",Savings,New Accts,North County,Existing
+4/1/2019,Friday," 8,721 ",Savings,New Accts,Westside,New
+4/1/2019,Friday," 15,276 ",Savings,New Accts,North County,Existing
+4/1/2019,Friday," 5,000 ",Savings,New Accts,Westside,Existing
+4/1/2019,Friday," 12,000 ",CD,New Accts,Westside,Existing
+4/1/2019,Friday," 13,636 ",CD,New Accts,North County,Existing
+4/1/2019,Friday," 7,177 ",Savings,Teller,North County,Existing
+4/1/2019,Friday," 6,837 ",Savings,New Accts,Westside,Existing
+4/1/2019,Friday," 3,171 ",Checking,New Accts,Westside,Existing
+4/1/2019,Friday," 50,000 ",Savings,New Accts,Central,Existing
+4/1/2019,Friday," 4,690 ",Checking,New Accts,North County,New
+4/1/2019,Friday," 12,438 ",Checking,New Accts,Central,Existing
+4/1/2019,Friday," 5,000 ",Checking,New Accts,North County,Existing
+4/1/2019,Friday," 7,000 ",Savings,New Accts,North County,New
+4/1/2019,Friday," 11,957 ",Checking,New Accts,Central,Existing
+4/1/2019,Friday," 14,571 ",CD,Teller,Central,New
+4/1/2019,Friday," 15,000 ",CD,New Accts,Central,Existing
+4/1/2019,Friday," 5,879 ",Checking,New Accts,Central,Existing
+4/1/2019,Friday," 4,000 ",Savings,New Accts,Central,Existing
+4/1/2019,Friday," 15,759 ",CD,Teller,Westside,Existing
+4/1/2019,Friday," 7,427 ",Checking,New Accts,North County,Existing
+4/1/2019,Friday," 4,500 ",Checking,New Accts,North County,New
+4/1/2019,Friday," 12,962 ",Checking,Teller,Central,Existing
+4/1/2019,Friday, 500 ,Checking,New Accts,Central,New
+4/1/2019,Friday," 5,364 ",Checking,Teller,Central,New
+4/1/2019,Friday," 16,000 ",CD,New Accts,Central,New
+4/1/2019,Friday," 14,867 ",Checking,Teller,North County,Existing
+4/1/2019,Friday," 13,061 ",Checking,Teller,Central,New
+4/1/2019,Friday," 45,000 ",CD,Teller,North County,Existing
+4/2/2019,Saturday," 4,995 ",Checking,New Accts,Central,New
+4/2/2019,Saturday," 10,096 ",Savings,New Accts,Central,New
+4/2/2019,Saturday," 14,861 ",Savings,New Accts,Central,New
+4/2/2019,Saturday, 500 ,Checking,Teller,Central,New
+4/2/2019,Saturday," 5,524 ",Checking,New Accts,Central,Existing
+4/2/2019,Saturday," 5,862 ",Savings,Teller,North County,New
+4/2/2019,Saturday," 12,592 ",Savings,Teller,Central,Existing
+4/2/2019,Saturday," 7,188 ",Checking,Teller,Westside,New
+4/2/2019,Saturday," 9,159 ",Checking,Teller,North County,New
+4/2/2019,Saturday," 9,208 ",Checking,Teller,Central,Existing
+4/2/2019,Saturday," 5,756 ",Savings,Teller,North County,Existing
+4/2/2019,Saturday," 14,480 ",Checking,Teller,Central,New
+4/2/2019,Saturday," 7,028 ",CD,New Accts,North County,New
+4/4/2019,Monday," 9,397 ",Checking,Teller,North County,Existing
+4/4/2019,Monday," 5,025 ",CD,New Accts,North County,New
+4/4/2019,Monday, 500 ,Checking,Teller,Westside,Existing
+4/4/2019,Monday," 9,000 ",CD,Teller,Central,Existing
+4/4/2019,Monday," 5,538 ",Savings,New Accts,Central,Existing
+4/4/2019,Monday," 12,953 ",Savings,Teller,Central,Existing
+4/4/2019,Monday," 8,190 ",Savings,New Accts,North County,Existing
+4/4/2019,Monday," 4,348 ",Savings,Teller,Central,Existing
+4/4/2019,Monday," 6,071 ",Savings,Teller,North County,Existing
+4/4/2019,Monday," 11,000 ",CD,New Accts,Central,New
+4/4/2019,Monday," 12,000 ",CD,New Accts,Westside,Existing
+4/4/2019,Monday," 12,203 ",CD,New Accts,North County,Existing
+4/4/2019,Monday, 250 ,Checking,Teller,North County,New
+4/4/2019,Monday," 3,000 ",Checking,New Accts,Central,Existing
+4/4/2019,Monday," 9,095 ",IRA,Teller,Central,Existing
+4/4/2019,Monday, 240 ,Checking,New Accts,Central,Existing
+4/4/2019,Monday," 3,075 ",Checking,New Accts,Westside,Existing
+4/4/2019,Monday," 4,309 ",Savings,Teller,Central,Existing
+4/4/2019,Monday," 12,429 ",CD,New Accts,Westside,New
+4/4/2019,Monday," 4,000 ",Checking,New Accts,Central,Existing
+4/4/2019,Monday," 4,000 ",Checking,New Accts,North County,Existing
+4/4/2019,Monday," 2,000 ",IRA,New Accts,Westside,Existing
+4/4/2019,Monday," 12,824 ",CD,New Accts,Westside,Existing
+4/4/2019,Monday," 65,000 ",Savings,New Accts,Westside,Existing
+4/4/2019,Monday," 6,307 ",Savings,Teller,North County,Existing
+4/4/2019,Monday," 5,000 ",Checking,New Accts,North County,Existing
+4/4/2019,Monday," 13,000 ",CD,New Accts,North County,New
+4/4/2019,Monday," 6,000 ",Savings,New Accts,Central,Existing
+4/4/2019,Monday," 13,215 ",Checking,Teller,North County,Existing
+4/4/2019,Monday," 13,000 ",CD,New Accts,Central,Existing
+4/4/2019,Monday," 13,519 ",CD,New Accts,Central,New
+4/4/2019,Monday," 14,067 ",CD,New Accts,North County,New
+4/4/2019,Monday, 500 ,Checking,Teller,Central,Existing
+4/4/2019,Monday," 14,548 ",CD,New Accts,Central,Existing
+4/4/2019,Monday," 2,878 ",Savings,New Accts,North County,Existing
+4/4/2019,Monday," 14,702 ",CD,Teller,North County,New
+4/4/2019,Monday, 240 ,Checking,New Accts,Central,Existing
+4/4/2019,Monday," 15,000 ",CD,New Accts,Westside,New
+4/4/2019,Monday," 35,000 ",CD,New Accts,Central,Existing
+4/4/2019,Monday," 50,000 ",CD,New Accts,North County,New
+4/5/2019,Tuesday," 5,807 ",CD,New Accts,North County,New
+4/5/2019,Tuesday," 7,770 ",CD,New Accts,Central,Existing
+4/5/2019,Tuesday," 7,839 ",CD,Teller,Central,Existing
+4/5/2019,Tuesday," 1,000 ",Checking,New Accts,Central,Existing
+4/5/2019,Tuesday," 7,434 ",Checking,Teller,Central,Existing
+4/5/2019,Tuesday," 3,000 ",Checking,New Accts,Central,New
+4/5/2019,Tuesday," 8,456 ",CD,Teller,Central,Existing
+4/5/2019,Tuesday," 9,705 ",CD,New Accts,Westside,New
+4/5/2019,Tuesday," 11,135 ",CD,New Accts,Central,Existing
+4/5/2019,Tuesday," 4,000 ",Checking,Teller,North County,Existing
+4/5/2019,Tuesday," 11,761 ",CD,New Accts,Central,New
+4/5/2019,Tuesday, 100 ,Checking,New Accts,North County,Existing
+4/5/2019,Tuesday," 12,310 ",Savings,New Accts,Westside,New
+4/5/2019,Tuesday," 3,715 ",Checking,New Accts,Central,Existing
+4/5/2019,Tuesday," 4,231 ",Checking,Teller,Central,New
+4/5/2019,Tuesday, 100 ,Checking,New Accts,Central,Existing
+4/5/2019,Tuesday," 3,644 ",Checking,New Accts,Central,Existing
+4/5/2019,Tuesday," 5,701 ",Savings,Teller,Central,New
+4/5/2019,Tuesday," 3,559 ",Savings,Teller,Central,Existing
+4/5/2019,Tuesday," 5,000 ",Checking,New Accts,North County,Existing
+4/5/2019,Tuesday, 275 ,Checking,Teller,North County,Existing
+4/5/2019,Tuesday," 12,000 ",CD,Teller,Central,Existing
+4/5/2019,Tuesday," 13,000 ",CD,Teller,Westside,Existing
+4/5/2019,Tuesday," 1,000 ",Savings,Teller,North County,Existing
+4/5/2019,Tuesday, 200 ,Checking,New Accts,Westside,Existing
+4/5/2019,Tuesday," 3,000 ",Checking,New Accts,North County,New
+4/5/2019,Tuesday," 10,135 ",Savings,Teller,Central,New
+4/5/2019,Tuesday," 7,000 ",IRA,New Accts,North County,Existing
+4/5/2019,Tuesday," 13,500 ",CD,New Accts,North County,Existing
+4/5/2019,Tuesday," 17,000 ",CD,New Accts,Westside,Existing
+4/5/2019,Tuesday," 45,000 ",CD,New Accts,Westside,Existing
+4/5/2019,Tuesday," 10,612 ",Savings,New Accts,North County,Existing
+4/5/2019,Tuesday, 200 ,Checking,Teller,Westside,Existing
+4/6/2019,Wednesday, 400 ,Checking,Teller,Central,Existing
+4/6/2019,Wednesday," 14,158 ",Checking,New Accts,Westside,New
+4/6/2019,Wednesday," 6,762 ",Savings,New Accts,Central,Existing
+4/6/2019,Wednesday," 11,719 ",Checking,New Accts,Westside,Existing
+4/6/2019,Wednesday, 500 ,Savings,New Accts,Westside,Existing
+4/6/2019,Wednesday," 5,000 ",CD,New Accts,North County,Existing
+4/6/2019,Wednesday," 5,000 ",CD,New Accts,Central,New
+4/6/2019,Wednesday," 7,342 ",Checking,New Accts,Central,Existing
+4/6/2019,Wednesday," 11,552 ",CD,New Accts,North County,New
+4/6/2019,Wednesday," 11,828 ",CD,New Accts,Central,New
+4/6/2019,Wednesday," 12,000 ",CD,New Accts,North County,Existing
+4/6/2019,Wednesday," 3,820 ",Checking,New Accts,North County,Existing
+4/6/2019,Wednesday, 100 ,Checking,New Accts,Central,Existing
+4/6/2019,Wednesday," 10,000 ",IRA,Teller,North County,Existing
+4/6/2019,Wednesday," 13,669 ",CD,Teller,Central,New
+4/6/2019,Wednesday," 7,777 ",Checking,Teller,Westside,Existing
+4/6/2019,Wednesday," 13,574 ",Savings,New Accts,Central,New
+4/6/2019,Wednesday," 7,000 ",Savings,New Accts,North County,New
+4/6/2019,Wednesday," 8,371 ",Savings,Teller,Central,New
+4/6/2019,Wednesday," 12,455 ",IRA,Teller,North County,Existing
+4/6/2019,Wednesday," 14,644 ",CD,New Accts,Westside,New
+4/6/2019,Wednesday, 200 ,Savings,Teller,Central,Existing
+4/6/2019,Wednesday," 5,221 ",Checking,Teller,Central,New
+4/6/2019,Wednesday," 14,841 ",CD,Teller,North County,Existing
+4/6/2019,Wednesday," 3,807 ",Checking,New Accts,Westside,Existing
+4/6/2019,Wednesday," 15,208 ",CD,New Accts,Central,Existing
+4/6/2019,Wednesday," 10,056 ",Checking,Teller,North County,New
+4/6/2019,Wednesday," 10,219 ",Checking,New Accts,Central,Existing
+4/6/2019,Wednesday, 133 ,Checking,New Accts,Westside,Existing
+4/6/2019,Wednesday," 5,000 ",Savings,New Accts,North County,Existing
+4/6/2019,Wednesday, 124 ,Checking,Teller,Central,Existing
+4/6/2019,Wednesday," 90,000 ",CD,New Accts,Central,Existing
+4/7/2019,Thursday," 4,005 ",CD,Teller,Westside,Existing
+4/7/2019,Thursday," 4,198 ",CD,New Accts,North County,Existing
+4/7/2019,Thursday," 4,405 ",Savings,New Accts,Westside,Existing
+4/7/2019,Thursday," 10,373 ",CD,New Accts,Westside,Existing
+4/7/2019,Thursday," 11,000 ",CD,New Accts,Central,New
+4/7/2019,Thursday, 250 ,Savings,New Accts,North County,Existing
+4/7/2019,Thursday," 2,878 ",Savings,New Accts,North County,Existing
+4/7/2019,Thursday, 344 ,Checking,New Accts,Westside,Existing
+4/7/2019,Thursday," 4,000 ",Checking,Teller,North County,Existing
+4/7/2019,Thursday," 11,594 ",CD,Teller,Central,New
+4/7/2019,Thursday," 7,277 ",IRA,New Accts,North County,Existing
+4/7/2019,Thursday," 12,000 ",CD,New Accts,North County,Existing
+4/7/2019,Thursday," 4,000 ",Checking,New Accts,Central,New
+4/7/2019,Thursday," 5,282 ",Checking,Teller,Central,Existing
+4/7/2019,Thursday," 14,974 ",Checking,Teller,Central,Existing
+4/7/2019,Thursday, 500 ,Checking,New Accts,North County,Existing
+4/7/2019,Thursday," 13,390 ",Savings,New Accts,Central,New
+4/7/2019,Thursday," 12,063 ",Savings,New Accts,Westside,New
+4/7/2019,Thursday, 500 ,Checking,New Accts,Westside,Existing
+4/7/2019,Thursday, 600 ,Savings,New Accts,Central,Existing
+4/7/2019,Thursday," 12,164 ",CD,New Accts,Westside,Existing
+4/7/2019,Thursday," 8,000 ",Savings,Teller,Central,Existing
+4/7/2019,Thursday," 13,000 ",CD,New Accts,Central,Existing
+4/7/2019,Thursday," 13,428 ",CD,New Accts,Central,Existing
+4/7/2019,Thursday," 6,307 ",Savings,Teller,North County,Existing
+4/7/2019,Thursday," 3,171 ",Checking,New Accts,Westside,Existing
+4/7/2019,Thursday," 6,202 ",Savings,Teller,Central,Existing
+4/7/2019,Thursday," 9,009 ",Checking,Teller,Central,New
+4/7/2019,Thursday, 245 ,Checking,New Accts,North County,Existing
+4/7/2019,Thursday, 400 ,Checking,New Accts,Central,Existing
+4/7/2019,Thursday," 13,519 ",CD,New Accts,Central,Existing
+4/7/2019,Thursday," 13,903 ",CD,New Accts,Central,Existing
+4/7/2019,Thursday," 5,000 ",Savings,New Accts,Central,New
+4/7/2019,Thursday, 500 ,Checking,New Accts,Westside,Existing
+4/7/2019,Thursday," 7,865 ",Checking,Teller,Central,New
+4/7/2019,Thursday," 14,000 ",CD,Teller,North County,Existing
+4/7/2019,Thursday, 500 ,Checking,New Accts,North County,Existing
+4/7/2019,Thursday," 4,535 ",Checking,New Accts,North County,New
+4/7/2019,Thursday, 240 ,Checking,New Accts,Central,Existing
+4/7/2019,Thursday, 100 ,Checking,New Accts,Central,Existing
+4/7/2019,Thursday," 14,548 ",CD,New Accts,Central,Existing
+4/7/2019,Thursday," 4,000 ",Savings,New Accts,Central,Existing
+4/7/2019,Thursday," 15,703 ",CD,New Accts,Central,Existing
+4/7/2019,Thursday," 16,000 ",CD,New Accts,Central,New
+4/7/2019,Thursday," 17,000 ",CD,Teller,Central,Existing
+4/7/2019,Thursday," 2,000 ",IRA,New Accts,Westside,Existing
+4/7/2019,Thursday," 2,749 ",Checking,New Accts,Central,New
+4/7/2019,Thursday," 3,000 ",Checking,New Accts,Central,Existing
+4/7/2019,Thursday," 11,721 ",Savings,New Accts,Central,New
+4/7/2019,Thursday," 4,006 ",Savings,New Accts,North County,New
+4/7/2019,Thursday," 35,000 ",CD,New Accts,Central,Existing
+4/7/2019,Thursday," 10,492 ",Checking,New Accts,North County,Existing
+4/7/2019,Thursday," 50,000 ",CD,New Accts,North County,Existing
+4/7/2019,Thursday," 75,000 ",CD,New Accts,North County,New
+4/7/2019,Thursday," 4,000 ",Checking,New Accts,Westside,New
+4/8/2019,Friday," 9,000 ",IRA,New Accts,Central,Existing
+4/8/2019,Friday," 4,000 ",Checking,New Accts,North County,Existing
+4/8/2019,Friday," 4,329 ",CD,New Accts,Westside,New
+4/8/2019,Friday," 8,915 ",Savings,New Accts,Central,New
+4/8/2019,Friday," 6,000 ",Checking,Teller,Westside,Existing
+4/8/2019,Friday," 4,853 ",Savings,New Accts,Central,Existing
+4/8/2019,Friday," 3,434 ",Checking,New Accts,Central,Existing
+4/8/2019,Friday," 4,000 ",Checking,New Accts,Central,Existing
+4/8/2019,Friday, 500 ,Savings,New Accts,Westside,Existing
+4/8/2019,Friday," 5,570 ",Checking,New Accts,North County,New
+4/8/2019,Friday," 3,845 ",Savings,Teller,Westside,Existing
+4/8/2019,Friday," 8,815 ",Savings,Teller,Central,Existing
+4/8/2019,Friday," 4,681 ",CD,Teller,Westside,New
+4/8/2019,Friday," 1,000 ",Checking,New Accts,Central,New
+4/8/2019,Friday," 10,553 ",Checking,New Accts,North County,New
+4/8/2019,Friday, 500 ,Checking,Teller,Westside,New
+4/8/2019,Friday," 6,000 ",Savings,New Accts,Central,New
+4/8/2019,Friday," 6,586 ",CD,Teller,Westside,New
+4/8/2019,Friday," 6,794 ",CD,New Accts,Westside,Existing
+4/8/2019,Friday," 4,635 ",Checking,New Accts,Central,Existing
+4/8/2019,Friday," 8,093 ",Checking,Teller,Central,New
+4/8/2019,Friday," 4,000 ",Savings,New Accts,North County,Existing
+4/8/2019,Friday, 100 ,Checking,New Accts,Central,Existing
+4/8/2019,Friday," 8,174 ",CD,New Accts,North County,Existing
+4/8/2019,Friday," 14,475 ",Savings,Teller,Central,Existing
+4/8/2019,Friday," 12,794 ",Checking,New Accts,North County,Existing
+4/8/2019,Friday," 6,674 ",Savings,Teller,North County,New
+4/8/2019,Friday," 4,805 ",Checking,New Accts,North County,New
+4/8/2019,Friday," 8,512 ",CD,New Accts,Westside,New
+4/8/2019,Friday," 8,801 ",CD,Teller,North County,New
+4/8/2019,Friday," 9,154 ",CD,New Accts,Central,Existing
+4/8/2019,Friday," 9,268 ",CD,Teller,Westside,New
+4/8/2019,Friday," 10,097 ",CD,Teller,Central,Existing
+4/8/2019,Friday," 12,303 ",CD,New Accts,North County,Existing
+4/8/2019,Friday," 12,505 ",CD,New Accts,Westside,New
+4/8/2019,Friday," 13,524 ",CD,Teller,Westside,Existing
+4/8/2019,Friday," 12,516 ",Checking,New Accts,Central,Existing
+4/8/2019,Friday," 14,969 ",CD,Teller,Westside,New
+4/11/2019,Monday, 500 ,Checking,Teller,Central,Existing
+4/11/2019,Monday," 9,877 ",Savings,New Accts,Central,Existing
+4/11/2019,Monday," 4,915 ",Checking,Teller,Central,New
+4/11/2019,Monday," 7,316 ",Savings,Teller,Central,New
+4/11/2019,Monday," 4,295 ",Checking,Teller,Central,New
+4/11/2019,Monday," 5,097 ",CD,New Accts,Central,New
+4/11/2019,Monday," 9,624 ",Checking,Teller,Central,Existing
+4/11/2019,Monday," 5,360 ",CD,Teller,Central,Existing
+4/11/2019,Monday," 8,552 ",Savings,Teller,Central,New
+4/11/2019,Monday," 13,494 ",Savings,New Accts,Central,New
+4/11/2019,Monday," 12,932 ",Savings,Teller,Central,Existing
+4/11/2019,Monday," 3,000 ",Checking,New Accts,Central,Existing
+4/11/2019,Monday," 12,722 ",Checking,Teller,North County,New
+4/11/2019,Monday, 500 ,Checking,New Accts,Central,Existing
+4/11/2019,Monday," 4,000 ",Checking,New Accts,Central,Existing
+4/11/2019,Monday," 12,334 ",Savings,Teller,Westside,Existing
+4/11/2019,Monday," 10,181 ",CD,Teller,Central,New
+4/11/2019,Monday, 500 ,Checking,New Accts,Westside,New
+4/11/2019,Monday," 65,000 ",Savings,New Accts,Westside,Existing
+4/11/2019,Monday," 10,751 ",CD,New Accts,Central,Existing
+4/11/2019,Monday," 10,190 ",Checking,Teller,Central,Existing
+4/11/2019,Monday," 3,075 ",Checking,New Accts,Westside,Existing
+4/11/2019,Monday," 11,935 ",CD,Teller,North County,New
+4/11/2019,Monday," 5,116 ",Checking,Teller,Central,New
+4/11/2019,Monday," 13,000 ",CD,New Accts,Central,Existing
+4/11/2019,Monday," 6,000 ",Savings,New Accts,Central,Existing
+4/11/2019,Monday, 240 ,Checking,New Accts,Central,Existing
+4/11/2019,Monday," 8,349 ",Checking,New Accts,Westside,New
+4/11/2019,Monday," 4,000 ",Checking,New Accts,North County,Existing
+4/11/2019,Monday," 5,366 ",Savings,Teller,Central,New
+4/11/2019,Monday," 2,878 ",Savings,New Accts,North County,Existing
+4/11/2019,Monday," 9,095 ",IRA,New Accts,Central,Existing
+4/11/2019,Monday," 13,519 ",CD,New Accts,Central,New
+4/11/2019,Monday," 12,418 ",Checking,New Accts,North County,Existing
+4/12/2019,Tuesday," 5,761 ",Savings,Teller,Central,Existing
+4/12/2019,Tuesday, 100 ,Checking,New Accts,Central,Existing
+4/12/2019,Tuesday," 3,000 ",CD,New Accts,North County,New
+4/12/2019,Tuesday, 100 ,Checking,New Accts,Central,New
+4/12/2019,Tuesday," 5,000 ",CD,New Accts,Central,Existing
+4/12/2019,Tuesday," 6,573 ",Checking,New Accts,North County,New
+4/12/2019,Tuesday," 8,613 ",CD,New Accts,Central,New
+4/12/2019,Tuesday," 4,540 ",Checking,New Accts,Central,Existing
+4/12/2019,Tuesday," 10,431 ",CD,Teller,Westside,New
+4/12/2019,Tuesday, 400 ,Checking,New Accts,Central,New
+4/12/2019,Tuesday," 11,931 ",Savings,Teller,Central,Existing
+4/12/2019,Tuesday," 12,006 ",CD,Teller,Central,Existing
+4/12/2019,Tuesday, 400 ,Checking,Teller,Central,Existing
+4/12/2019,Tuesday," 1,325 ",Checking,New Accts,Central,New
+4/12/2019,Tuesday," 14,722 ",Checking,Teller,Westside,Existing
+4/12/2019,Tuesday," 14,644 ",CD,New Accts,Westside,New
+4/12/2019,Tuesday," 16,000 ",CD,New Accts,North County,Existing
+4/12/2019,Tuesday," 7,000 ",Savings,Teller,North County,Existing
+4/12/2019,Tuesday," 17,000 ",CD,Teller,Central,Existing
+4/12/2019,Tuesday, 124 ,Checking,Teller,Central,Existing
+4/12/2019,Tuesday," 3,000 ",Checking,New Accts,Central,Existing
+4/12/2019,Tuesday," 11,798 ",Checking,New Accts,North County,New
+4/12/2019,Tuesday, 250 ,Savings,Teller,North County,Existing
+4/13/2019,Wednesday," 3,525 ",CD,New Accts,North County,Existing
+4/13/2019,Wednesday," 6,190 ",CD,Teller,Central,New
+4/13/2019,Wednesday," 2,749 ",Checking,New Accts,Central,Existing
+4/13/2019,Wednesday," 19,000 ",Savings,New Accts,Central,New
+4/13/2019,Wednesday," 10,202 ",CD,New Accts,North County,Existing
+4/13/2019,Wednesday," 9,095 ",IRA,New Accts,Central,Existing
+4/13/2019,Wednesday, 500 ,Savings,New Accts,Westside,Existing
+4/13/2019,Wednesday," 12,000 ",CD,New Accts,Westside,Existing
+4/13/2019,Wednesday," 12,000 ",CD,New Accts,North County,Existing
+4/13/2019,Wednesday," 12,000 ",Checking,New Accts,Central,Existing
+4/13/2019,Wednesday," 12,000 ",CD,New Accts,North County,Existing
+4/13/2019,Wednesday, 500 ,Savings,New Accts,Westside,Existing
+4/13/2019,Wednesday, 500 ,Checking,New Accts,Westside,Existing
+4/13/2019,Wednesday," 6,000 ",Savings,New Accts,Central,Existing
+4/13/2019,Wednesday," 12,000 ",CD,New Accts,Westside,Existing
+4/13/2019,Wednesday," 12,535 ",CD,New Accts,Central,Existing
+4/13/2019,Wednesday," 13,500 ",CD,New Accts,North County,Existing
+4/13/2019,Wednesday," 8,000 ",Savings,New Accts,Central,Existing
+4/13/2019,Wednesday," 13,636 ",CD,New Accts,North County,Existing
+4/13/2019,Wednesday, 500 ,Checking,New Accts,Central,Existing
+4/13/2019,Wednesday," 3,075 ",Checking,New Accts,Westside,Existing
+4/13/2019,Wednesday," 4,000 ",Checking,New Accts,Central,Existing
+4/13/2019,Wednesday, 500 ,Checking,New Accts,Central,Existing
+4/13/2019,Wednesday, 500 ,Savings,New Accts,Westside,Existing
+4/13/2019,Wednesday," 5,723 ",Savings,Teller,Central,New
+4/13/2019,Wednesday," 4,000 ",Checking,New Accts,North County,New
+4/13/2019,Wednesday," 8,000 ",Savings,New Accts,Central,Existing
+4/13/2019,Wednesday," 7,000 ",IRA,New Accts,North County,Existing
+4/13/2019,Wednesday," 16,000 ",CD,New Accts,Central,Existing
+4/13/2019,Wednesday," 5,245 ",Savings,New Accts,Central,Existing
+4/13/2019,Wednesday," 3,596 ",Savings,New Accts,North County,New
+4/13/2019,Wednesday," 5,000 ",Checking,New Accts,North County,Existing
+4/13/2019,Wednesday," 7,882 ",Savings,Teller,North County,New
+4/13/2019,Wednesday," 6,000 ",Savings,New Accts,Central,Existing
+4/13/2019,Wednesday," 4,357 ",Checking,Teller,North County,Existing
+4/13/2019,Wednesday," 9,095 ",IRA,New Accts,Central,Existing
+4/13/2019,Wednesday," 7,289 ",Checking,New Accts,Central,New
+4/13/2019,Wednesday," 6,000 ",Savings,New Accts,Central,Existing
+4/13/2019,Wednesday," 75,000 ",CD,New Accts,North County,Existing
+4/13/2019,Wednesday," 5,000 ",Savings,Teller,North County,Existing
+4/14/2019,Thursday," 10,795 ",CD,Teller,Central,Existing
+4/14/2019,Thursday," 12,455 ",IRA,Teller,North County,Existing
+4/14/2019,Thursday," 13,637 ",Savings,New Accts,North County,New
+4/14/2019,Thursday," 5,603 ",Savings,New Accts,Westside,Existing
+4/14/2019,Thursday," 13,899 ",Checking,Teller,Central,Existing
+4/14/2019,Thursday," 11,217 ",Checking,Teller,Central,Existing
+4/14/2019,Thursday," 12,519 ",CD,Teller,Central,Existing
+4/14/2019,Thursday," 10,122 ",Checking,New Accts,Central,Existing
+4/14/2019,Thursday," 3,807 ",Checking,New Accts,Westside,Existing
+4/14/2019,Thursday," 13,521 ",Savings,New Accts,Westside,Existing
+4/14/2019,Thursday," 7,649 ",Savings,Teller,Central,New
+4/14/2019,Thursday," 7,342 ",Checking,New Accts,Central,Existing
+4/14/2019,Thursday," 5,233 ",Savings,New Accts,North County,New
+4/14/2019,Thursday," 14,227 ",Checking,Teller,North County,New
+4/14/2019,Thursday, 133 ,Checking,New Accts,Westside,Existing
+4/14/2019,Thursday," 13,000 ",CD,Teller,Westside,Existing
+4/14/2019,Thursday," 3,949 ",Savings,New Accts,Central,New
+4/14/2019,Thursday, 600 ,Savings,New Accts,Central,Existing
+4/14/2019,Thursday," 15,208 ",CD,New Accts,Central,New
+4/14/2019,Thursday," 10,862 ",Savings,New Accts,Central,New
+4/14/2019,Thursday, 200 ,Savings,New Accts,Central,Existing
+4/14/2019,Thursday," 8,866 ",Checking,Teller,North County,New
+4/14/2019,Thursday," 10,000 ",IRA,Teller,North County,Existing
+4/14/2019,Thursday," 6,676 ",Savings,Teller,Central,New
+4/14/2019,Thursday," 50,000 ",CD,New Accts,North County,Existing
+4/14/2019,Thursday," 6,762 ",Savings,New Accts,Central,Existing
+4/15/2019,Friday," 14,782 ",Checking,Teller,Westside,New
+4/15/2019,Friday," 3,434 ",Checking,New Accts,Central,Existing
+4/15/2019,Friday," 14,679 ",Savings,New Accts,Westside,Existing
+4/15/2019,Friday," 4,000 ",Savings,New Accts,Central,Existing
+4/15/2019,Friday," 4,652 ",CD,New Accts,North County,New
+4/15/2019,Friday," 5,879 ",Checking,New Accts,Central,Existing
+4/15/2019,Friday," 6,534 ",CD,New Accts,Westside,New
+4/15/2019,Friday," 6,000 ",Checking,Teller,Westside,Existing
+4/15/2019,Friday," 2,000 ",IRA,New Accts,Westside,Existing
+4/15/2019,Friday," 11,489 ",Checking,Teller,Central,Existing
+4/15/2019,Friday," 3,171 ",Checking,New Accts,Westside,Existing
+4/15/2019,Friday," 14,706 ",Checking,New Accts,Central,New
+4/15/2019,Friday," 12,908 ",Checking,Teller,Central,Existing
+4/15/2019,Friday," 7,811 ",Savings,New Accts,North County,Existing
+4/15/2019,Friday," 7,165 ",CD,New Accts,North County,New
+4/15/2019,Friday," 4,623 ",Savings,New Accts,North County,New
+4/15/2019,Friday," 7,989 ",Savings,Teller,North County,New
+4/15/2019,Friday," 8,133 ",CD,Teller,Central,New
+4/15/2019,Friday," 10,368 ",Checking,Teller,Central,Existing
+4/15/2019,Friday," 10,071 ",Checking,Teller,Central,New
+4/15/2019,Friday," 9,395 ",CD,New Accts,North County,Existing
+4/15/2019,Friday," 7,218 ",Checking,Teller,Westside,New
+4/15/2019,Friday," 5,000 ",Savings,New Accts,Westside,Existing
+4/15/2019,Friday," 14,611 ",Savings,New Accts,Central,Existing
+4/15/2019,Friday, 100 ,Checking,New Accts,Central,Existing
+4/15/2019,Friday," 1,000 ",Checking,New Accts,Central,Existing
+4/15/2019,Friday," 11,406 ",Checking,New Accts,North County,New
+4/15/2019,Friday," 8,920 ",Savings,Teller,Central,New
+4/15/2019,Friday," 10,273 ",Checking,Teller,Central,New
+4/15/2019,Friday," 14,473 ",Checking,Teller,Central,Existing
+4/15/2019,Friday," 9,746 ",Checking,Teller,North County,New
+4/15/2019,Friday," 9,940 ",CD,New Accts,Central,New
+4/15/2019,Friday," 10,177 ",CD,New Accts,Central,New
+4/15/2019,Friday," 9,800 ",Checking,Teller,Central,Existing
+4/15/2019,Friday," 12,505 ",CD,New Accts,Westside,Existing
+4/15/2019,Friday," 11,984 ",Checking,New Accts,Central,Existing
+4/15/2019,Friday," 5,156 ",Checking,New Accts,Central,New
+4/15/2019,Friday," 13,126 ",CD,Teller,Westside,New
+4/15/2019,Friday," 14,189 ",CD,Teller,Central,New
+4/18/2019,Monday," 10,141 ",Savings,New Accts,Central,Existing
+4/18/2019,Monday," 9,936 ",Checking,Teller,North County,Existing
+4/18/2019,Monday," 7,037 ",Savings,Teller,Westside,Existing
+4/18/2019,Monday," 4,542 ",CD,Teller,Central,New
+4/18/2019,Monday," 9,098 ",Savings,New Accts,Central,New
+4/18/2019,Monday," 14,587 ",Savings,Teller,North County,Existing
+4/18/2019,Monday," 4,857 ",CD,New Accts,North County,New
+4/18/2019,Monday," 5,000 ",CD,Teller,North County,Existing
+4/18/2019,Monday," 8,882 ",Checking,New Accts,North County,New
+4/18/2019,Monday," 8,940 ",CD,Teller,Central,Existing
+4/18/2019,Monday," 10,373 ",CD,New Accts,Westside,Existing
+4/18/2019,Monday," 6,808 ",Savings,New Accts,Westside,Existing
+4/18/2019,Monday, 100 ,Checking,New Accts,Westside,Existing
+4/18/2019,Monday," 13,000 ",CD,New Accts,Central,Existing
+4/18/2019,Monday," 5,589 ",Savings,New Accts,Central,New
+4/18/2019,Monday," 21,000 ",Savings,New Accts,North County,Existing
+4/18/2019,Monday," 4,000 ",Checking,New Accts,Central,Existing
+4/18/2019,Monday," 10,103 ",Savings,Teller,Westside,Existing
+4/18/2019,Monday," 10,365 ",Savings,Teller,Central,Existing
+4/18/2019,Monday," 13,519 ",CD,New Accts,Central,Existing
+4/18/2019,Monday," 4,000 ",Checking,New Accts,North County,Existing
+4/18/2019,Monday," 4,000 ",Checking,Teller,North County,Existing
+4/18/2019,Monday, 200 ,Checking,New Accts,Central,Existing
+4/18/2019,Monday," 13,916 ",CD,New Accts,Westside,New
+4/19/2019,Tuesday," 3,000 ",CD,Teller,Central,Existing
+4/19/2019,Tuesday," 3,000 ",Checking,New Accts,Central,Existing
+4/19/2019,Tuesday," 7,884 ",CD,Teller,North County,Existing
+4/19/2019,Tuesday," 14,750 ",Savings,New Accts,North County,New
+4/19/2019,Tuesday," 5,000 ",Savings,New Accts,Central,Existing
+4/19/2019,Tuesday," 9,000 ",IRA,New Accts,Central,Existing
+4/19/2019,Tuesday," 10,768 ",CD,New Accts,Central,New
+4/19/2019,Tuesday, 500 ,Savings,New Accts,Westside,New
+4/19/2019,Tuesday," 6,394 ",Savings,New Accts,Central,New
+4/19/2019,Tuesday," 11,498 ",CD,Teller,North County,New
+4/19/2019,Tuesday, 240 ,Checking,New Accts,Central,Existing
+4/19/2019,Tuesday," 12,000 ",CD,New Accts,North County,Existing
+4/19/2019,Tuesday," 5,000 ",Checking,New Accts,North County,Existing
+4/19/2019,Tuesday," 12,724 ",CD,New Accts,Westside,New
+4/19/2019,Tuesday," 6,000 ",Savings,New Accts,Central,Existing
+4/19/2019,Tuesday," 40,599 ",Savings,New Accts,Central,Existing
+4/19/2019,Tuesday," 12,134 ",Checking,Teller,North County,Existing
+4/19/2019,Tuesday, 344 ,Checking,New Accts,Westside,Existing
+4/19/2019,Tuesday," 7,000 ",IRA,New Accts,North County,New
+4/19/2019,Tuesday," 4,000 ",Savings,New Accts,North County,Existing
+4/19/2019,Tuesday," 12,903 ",CD,Teller,North County,Existing
+4/19/2019,Tuesday," 14,851 ",Savings,Teller,Central,Existing
+4/19/2019,Tuesday," 7,258 ",Savings,New Accts,Central,Existing
+4/19/2019,Tuesday," 13,000 ",CD,New Accts,Central,Existing
+4/19/2019,Tuesday," 13,130 ",CD,Teller,Westside,New
+4/19/2019,Tuesday," 4,000 ",Checking,New Accts,Westside,Existing
+4/19/2019,Tuesday," 13,500 ",CD,New Accts,North County,Existing
+4/19/2019,Tuesday," 8,545 ",Checking,Teller,North County,Existing
+4/19/2019,Tuesday," 4,779 ",Checking,Teller,Westside,Existing
+4/19/2019,Tuesday, 240 ,Checking,New Accts,Central,Existing
+4/19/2019,Tuesday," 13,519 ",CD,New Accts,Central,Existing
+4/19/2019,Tuesday," 13,636 ",CD,New Accts,North County,Existing
+4/19/2019,Tuesday," 4,810 ",Checking,Teller,Central,Existing
+4/19/2019,Tuesday," 13,903 ",CD,New Accts,Central,New
+4/19/2019,Tuesday," 4,000 ",Checking,New Accts,North County,New
+4/19/2019,Tuesday," 2,749 ",Checking,New Accts,Central,Existing
+4/19/2019,Tuesday," 4,635 ",Checking,New Accts,Central,Existing
+4/19/2019,Tuesday," 4,000 ",Checking,New Accts,Central,Existing
+4/19/2019,Tuesday," 8,000 ",Savings,Teller,Central,Existing
+4/19/2019,Tuesday," 14,169 ",CD,New Accts,Westside,New
+4/19/2019,Tuesday," 15,703 ",CD,New Accts,Central,Existing
+4/19/2019,Tuesday," 75,000 ",CD,New Accts,North County,Existing
+4/19/2019,Tuesday," 5,000 ",Savings,New Accts,North County,New
+4/19/2019,Tuesday," 4,000 ",Checking,New Accts,North County,Existing
+4/19/2019,Tuesday," 4,000 ",Checking,New Accts,Central,New
+4/19/2019,Tuesday, 500 ,Savings,New Accts,Westside,Existing
+4/19/2019,Tuesday," 6,000 ",Savings,New Accts,Central,Existing
+4/19/2019,Tuesday," 10,147 ",Savings,New Accts,Central,Existing
+4/19/2019,Tuesday, 500 ,Savings,New Accts,Westside,Existing
+4/19/2019,Tuesday," 3,000 ",Checking,New Accts,Central,Existing
+4/19/2019,Tuesday, 100 ,Checking,New Accts,Central,Existing
+4/19/2019,Tuesday," 2,878 ",Savings,New Accts,North County,Existing
+4/19/2019,Tuesday," 3,075 ",Checking,New Accts,Westside,New
+4/20/2019,Wednesday," 6,762 ",Savings,New Accts,Central,Existing
+4/20/2019,Wednesday," 5,664 ",Savings,New Accts,North County,New
+4/20/2019,Wednesday, 133 ,Checking,New Accts,Westside,Existing
+4/20/2019,Wednesday," 7,970 ",Savings,Teller,Central,Existing
+4/20/2019,Wednesday," 3,807 ",Checking,New Accts,Westside,Existing
+4/20/2019,Wednesday," 7,013 ",Savings,New Accts,North County,Existing
+4/20/2019,Wednesday," 10,976 ",Checking,New Accts,Westside,New
+4/20/2019,Wednesday," 7,342 ",Checking,New Accts,Central,Existing
+4/20/2019,Wednesday," 12,455 ",IRA,Teller,North County,Existing
+4/20/2019,Wednesday," 8,633 ",Savings,Teller,Westside,Existing
+4/20/2019,Wednesday," 9,591 ",Checking,Teller,Westside,Existing
+4/20/2019,Wednesday," 10,000 ",IRA,Teller,North County,Existing
+4/20/2019,Wednesday," 4,323 ",CD,New Accts,Westside,Existing
+4/20/2019,Wednesday," 12,158 ",Checking,New Accts,Central,Existing
+4/20/2019,Wednesday," 6,761 ",CD,Teller,Central,Existing
+4/20/2019,Wednesday," 9,251 ",CD,New Accts,Central,New
+4/20/2019,Wednesday," 12,198 ",Savings,New Accts,North County,New
+4/20/2019,Wednesday," 5,981 ",Savings,Teller,Westside,New
+4/20/2019,Wednesday," 13,900 ",Savings,New Accts,Central,Existing
+4/20/2019,Wednesday," 6,608 ",Savings,Teller,North County,New
+4/20/2019,Wednesday, 600 ,Savings,New Accts,Central,Existing
+4/20/2019,Wednesday," 12,958 ",Checking,New Accts,Central,Existing
+4/20/2019,Wednesday," 13,000 ",CD,Teller,Westside,Existing
+4/20/2019,Wednesday," 15,208 ",CD,New Accts,Central,Existing
+4/20/2019,Wednesday," 2,749 ",Checking,New Accts,Central,Existing
+4/20/2019,Wednesday," 11,684 ",Savings,Teller,Central,New
+4/20/2019,Wednesday," 7,604 ",Checking,Teller,Central,New
+4/20/2019,Wednesday," 75,000 ",CD,New Accts,North County,Existing
+4/20/2019,Wednesday," 11,801 ",Savings,New Accts,North County,Existing
+4/20/2019,Wednesday," 10,329 ",Savings,Teller,Central,Existing
+4/21/2019,Thursday," 11,935 ",Savings,New Accts,North County,Existing
+4/21/2019,Thursday," 4,635 ",Checking,New Accts,Central,Existing
+4/21/2019,Thursday," 4,000 ",Checking,New Accts,North County,Existing
+4/21/2019,Thursday," 4,000 ",Checking,New Accts,Central,New
+4/21/2019,Thursday," 4,000 ",Checking,New Accts,Central,Existing
+4/21/2019,Thursday," 6,379 ",Checking,Teller,North County,Existing
+4/21/2019,Thursday," 3,951 ",Checking,New Accts,Central,New
+4/21/2019,Thursday," 10,101 ",Savings,Teller,Central,Existing
+4/21/2019,Thursday," 8,469 ",CD,New Accts,Central,Existing
+4/21/2019,Thursday," 5,680 ",Savings,Teller,Central,Existing
+4/21/2019,Thursday," 13,000 ",CD,New Accts,Central,Existing
+4/21/2019,Thursday, 344 ,Checking,New Accts,Westside,New
+4/21/2019,Thursday," 3,000 ",Checking,New Accts,Central,Existing
+4/21/2019,Thursday," 4,000 ",Savings,New Accts,North County,Existing
+4/21/2019,Thursday," 13,519 ",CD,New Accts,Central,Existing
+4/21/2019,Thursday," 9,000 ",IRA,New Accts,Central,Existing
+4/21/2019,Thursday," 2,878 ",Savings,New Accts,North County,Existing
+4/21/2019,Thursday," 6,561 ",Checking,Teller,North County,New
+4/21/2019,Thursday," 3,075 ",Checking,New Accts,Westside,Existing
+4/22/2019,Friday," 12,700 ",Checking,Teller,Westside,Existing
+4/22/2019,Friday," 5,904 ",Checking,New Accts,Central,Existing
+4/22/2019,Friday," 4,191 ",CD,Teller,Central,New
+4/22/2019,Friday," 5,586 ",CD,Teller,Central,New
+4/22/2019,Friday, 600 ,Savings,New Accts,Central,Existing
+4/22/2019,Friday," 5,943 ",CD,Teller,Central,Existing
+4/22/2019,Friday," 3,728 ",Checking,New Accts,North County,New
+4/22/2019,Friday," 2,000 ",Checking,Teller,Westside,Existing
+4/22/2019,Friday," 6,314 ",CD,Teller,North County,Existing
+4/22/2019,Friday," 7,854 ",Savings,Teller,North County,New
+4/22/2019,Friday," 5,393 ",Savings,Teller,Central,New
+4/22/2019,Friday," 8,469 ",CD,Teller,Westside,Existing
+4/22/2019,Friday, 200 ,Savings,New Accts,Central,Existing
+4/22/2019,Friday," 12,789 ",Checking,Teller,Central,New
+4/22/2019,Friday, 133 ,Checking,New Accts,Westside,Existing
+4/22/2019,Friday," 30,000 ",Savings,New Accts,Central,Existing
+4/22/2019,Friday," 11,169 ",Savings,Teller,Westside,Existing
+4/22/2019,Friday," 10,306 ",CD,Teller,North County,Existing
+4/22/2019,Friday, 500 ,Checking,Teller,Central,New
+4/22/2019,Friday," 11,201 ",CD,New Accts,Central,New
+4/22/2019,Friday," 11,541 ",CD,New Accts,Central,Existing
+4/22/2019,Friday," 8,042 ",Savings,Teller,North County,Existing
+4/22/2019,Friday," 13,973 ",Savings,New Accts,Westside,Existing
+4/22/2019,Friday," 7,192 ",Savings,New Accts,Central,New
+4/22/2019,Friday," 11,898 ",CD,New Accts,North County,New
+4/22/2019,Friday," 2,749 ",Checking,New Accts,Central,New
+4/22/2019,Friday," 9,641 ",Checking,Teller,Central,Existing
+4/22/2019,Friday," 12,276 ",CD,Teller,Westside,New
+4/22/2019,Friday," 12,455 ",CD,Teller,North County,Existing
+4/22/2019,Friday," 13,000 ",CD,Teller,Westside,Existing
+4/22/2019,Friday," 13,155 ",CD,Teller,North County,Existing
+4/22/2019,Friday," 2,000 ",IRA,Teller,North County,New
+4/22/2019,Friday," 3,807 ",Checking,New Accts,Westside,Existing
+4/22/2019,Friday," 13,550 ",CD,New Accts,Central,New
+4/22/2019,Friday," 7,342 ",Checking,New Accts,Central,New
+4/22/2019,Friday," 4,985 ",Savings,New Accts,Westside,Existing
+4/22/2019,Friday," 14,698 ",CD,New Accts,Westside,New
+4/22/2019,Friday," 7,167 ",Savings,New Accts,Central,Existing
+4/22/2019,Friday," 12,817 ",Checking,New Accts,Central,New
+4/22/2019,Friday," 5,517 ",Checking,Teller,North County,New
+4/22/2019,Friday," 15,208 ",CD,New Accts,Central,Existing
+4/22/2019,Friday," 14,433 ",Checking,Teller,Central,Existing
+4/22/2019,Friday," 4,562 ",Checking,Teller,Central,New
+4/22/2019,Friday," 75,000 ",CD,New Accts,North County,Existing
+4/22/2019,Friday," 80,000 ",CD,New Accts,North County,New
+4/25/2019,Monday," 3,714 ",CD,New Accts,Central,New
+4/25/2019,Monday," 4,010 ",Checking,New Accts,Central,Existing
+4/25/2019,Monday," 10,332 ",Checking,New Accts,Central,New
+4/25/2019,Monday," 14,693 ",Checking,Teller,Central,Existing
+4/25/2019,Monday," 4,518 ",CD,Teller,Central,Existing
+4/25/2019,Monday," 14,757 ",Checking,Teller,Central,New
+4/25/2019,Monday," 8,436 ",Savings,New Accts,North County,New
+4/25/2019,Monday," 14,849 ",Savings,New Accts,North County,Existing
+4/25/2019,Monday," 11,365 ",Savings,New Accts,Central,Existing
+4/25/2019,Monday," 7,358 ",Savings,Teller,Central,Existing
+4/25/2019,Monday," 7,193 ",Checking,New Accts,Westside,New
+4/25/2019,Monday," 7,668 ",CD,Teller,Westside,New
+4/25/2019,Monday," 3,434 ",Checking,New Accts,Central,New
+4/25/2019,Monday," 6,000 ",Checking,Teller,Westside,Existing
+4/25/2019,Monday," 7,197 ",Checking,Teller,Central,New
+4/25/2019,Monday," 5,445 ",Savings,New Accts,North County,Existing
+4/25/2019,Monday," 11,901 ",CD,Teller,North County,New
+4/25/2019,Monday," 10,322 ",Checking,Teller,Westside,New
+4/25/2019,Monday," 12,127 ",CD,Teller,Central,Existing
+4/25/2019,Monday," 6,762 ",Savings,New Accts,Central,Existing
+4/25/2019,Monday," 12,500 ",CD,New Accts,North County,New
+4/25/2019,Monday, 100 ,Checking,New Accts,Central,New
+4/25/2019,Monday," 12,505 ",CD,New Accts,Westside,Existing
+4/25/2019,Monday," 12,505 ",CD,New Accts,Westside,Existing
+4/25/2019,Monday, 600 ,Savings,New Accts,Central,New
+4/25/2019,Monday," 12,455 ",IRA,Teller,North County,Existing
+4/25/2019,Monday," 10,039 ",Savings,Teller,Westside,Existing
+4/25/2019,Monday," 11,439 ",Checking,New Accts,North County,Existing
+4/25/2019,Monday," 1,000 ",Checking,New Accts,Central,Existing
+4/25/2019,Monday," 13,091 ",CD,Teller,Central,New
+4/25/2019,Monday, 100 ,Checking,New Accts,Central,Existing
+4/25/2019,Monday," 6,000 ",Checking,Teller,Westside,Existing
+4/25/2019,Monday," 10,351 ",Checking,Teller,Central,New
+4/25/2019,Monday," 13,596 ",CD,New Accts,Westside,New
+4/25/2019,Monday," 8,894 ",Checking,New Accts,Central,Existing
+4/25/2019,Monday," 15,208 ",CD,New Accts,Central,Existing
+4/25/2019,Monday," 10,000 ",IRA,Teller,North County,Existing
+4/25/2019,Monday," 13,777 ",Checking,New Accts,Central,New
+4/25/2019,Monday," 32,000 ",Savings,New Accts,Central,New
+4/25/2019,Monday," 1,000 ",Checking,New Accts,Central,Existing
+4/25/2019,Monday," 7,955 ",Savings,New Accts,Central,Existing
+4/25/2019,Monday," 14,546 ",Savings,Teller,Central,Existing
+4/25/2019,Monday," 50,000 ",CD,New Accts,North County,Existing
+4/26/2019,Tuesday," 4,307 ",CD,New Accts,Central,New
+4/26/2019,Tuesday, 400 ,Checking,New Accts,Central,Existing
+4/26/2019,Tuesday," 4,384 ",CD,Teller,Westside,Existing
+4/26/2019,Tuesday," 1,325 ",Checking,New Accts,Central,New
+4/26/2019,Tuesday," 7,874 ",Savings,Teller,North County,New
+4/26/2019,Tuesday," 9,974 ",CD,New Accts,Westside,New
+4/26/2019,Tuesday," 10,000 ",CD,New Accts,Westside,New
+4/26/2019,Tuesday," 3,171 ",Checking,New Accts,Westside,Existing
+4/26/2019,Tuesday," 17,000 ",CD,Teller,Central,Existing
+4/26/2019,Tuesday," 25,000 ",CD,New Accts,Westside,Existing
+4/26/2019,Tuesday," 14,348 ",Checking,New Accts,Westside,New
+4/26/2019,Tuesday," 12,489 ",Checking,Teller,Westside,New
+4/26/2019,Tuesday," 9,632 ",Checking,Teller,Westside,New
+4/26/2019,Tuesday, 250 ,Savings,New Accts,North County,Existing
+4/26/2019,Tuesday," 4,623 ",Savings,New Accts,North County,Existing
+4/26/2019,Tuesday, 124 ,Checking,Teller,Central,Existing
+4/26/2019,Tuesday," 2,000 ",IRA,New Accts,Westside,Existing
+4/26/2019,Tuesday, 400 ,Checking,Teller,Central,Existing
+4/26/2019,Tuesday," 13,617 ",Savings,Teller,Central,New
+4/26/2019,Tuesday," 12,887 ",Savings,Teller,Central,New
+4/26/2019,Tuesday," 5,159 ",Savings,Teller,North County,Existing
+4/26/2019,Tuesday, 100 ,Checking,New Accts,Central,Existing
+4/26/2019,Tuesday," 11,134 ",Savings,New Accts,North County,Existing
+4/26/2019,Tuesday," 5,879 ",Checking,New Accts,Central,New
+4/26/2019,Tuesday, 100 ,Checking,New Accts,Central,Existing
+4/26/2019,Tuesday," 4,000 ",Savings,New Accts,Central,New
+4/26/2019,Tuesday," 5,000 ",Savings,New Accts,Westside,Existing
+4/26/2019,Tuesday," 90,000 ",CD,New Accts,Central,Existing
+4/27/2019,Wednesday," 12,572 ",Savings,New Accts,North County,Existing
+4/27/2019,Wednesday," 6,662 ",CD,Teller,Westside,Existing
+4/27/2019,Wednesday," 1,000 ",Checking,New Accts,North County,New
+4/27/2019,Wednesday," 8,264 ",CD,Teller,Central,Existing
+4/27/2019,Wednesday," 7,277 ",IRA,New Accts,North County,Existing
+4/27/2019,Wednesday," 1,000 ",Checking,New Accts,Central,Existing
+4/27/2019,Wednesday," 3,434 ",Checking,New Accts,Central,Existing
+4/27/2019,Wednesday," 4,566 ",Checking,Teller,Central,New
+4/27/2019,Wednesday, 100 ,Checking,New Accts,Central,Existing
+4/27/2019,Wednesday," 5,000 ",Savings,New Accts,Westside,Existing
+4/27/2019,Wednesday," 3,900 ",Checking,Teller,Westside,New
+4/27/2019,Wednesday," 13,128 ",Savings,Teller,North County,New
+4/27/2019,Wednesday," 9,405 ",CD,New Accts,Westside,Existing
+4/27/2019,Wednesday," 6,000 ",Checking,Teller,Westside,Existing
+4/27/2019,Wednesday," 12,505 ",CD,New Accts,Westside,Existing
+4/27/2019,Wednesday," 9,525 ",Savings,Teller,North County,New
+4/27/2019,Wednesday," 13,462 ",Checking,Teller,North County,New
+4/27/2019,Wednesday," 13,428 ",CD,Teller,Central,Existing
+4/27/2019,Wednesday," 15,000 ",CD,New Accts,Central,Existing
+4/27/2019,Wednesday," 15,984 ",Savings,New Accts,North County,New
+4/27/2019,Wednesday," 10,587 ",Savings,New Accts,Central,New
+4/28/2019,Thursday," 1,000 ",Checking,Teller,Westside,New
+4/28/2019,Thursday," 3,539 ",Savings,New Accts,Central,Existing
+4/28/2019,Thursday," 10,461 ",Savings,Teller,North County,Existing
+4/28/2019,Thursday," 5,879 ",Checking,New Accts,Central,New
+4/28/2019,Thursday," 2,000 ",IRA,New Accts,Westside,Existing
+4/28/2019,Thursday," 4,000 ",Savings,New Accts,Central,New
+4/28/2019,Thursday," 5,302 ",CD,Teller,Central,Existing
+4/28/2019,Thursday," 6,314 ",Checking,Teller,Central,Existing
+4/28/2019,Thursday," 9,247 ",Savings,Teller,Central,New
+4/28/2019,Thursday," 7,756 ",CD,New Accts,North County,Existing
+4/28/2019,Thursday," 14,548 ",CD,New Accts,Central,Existing
+4/28/2019,Thursday," 3,171 ",Checking,New Accts,Westside,Existing
+4/28/2019,Thursday," 25,000 ",Savings,New Accts,North County,Existing
+4/28/2019,Thursday," 5,957 ",Checking,Teller,Westside,New
+4/28/2019,Thursday," 4,113 ",Savings,New Accts,Central,Existing
+4/28/2019,Thursday," 9,010 ",Checking,Teller,Central,New
+4/28/2019,Thursday, 240 ,Checking,New Accts,Central,Existing
+4/29/2019,Friday, 124 ,Checking,Teller,Central,Existing
+4/29/2019,Friday," 11,765 ",Savings,New Accts,Central,Existing
+4/29/2019,Friday," 3,500 ",CD,New Accts,Central,New
+4/29/2019,Friday," 9,113 ",CD,Teller,Central,Existing
+4/29/2019,Friday," 10,474 ",CD,New Accts,Central,New
+4/29/2019,Friday," 11,000 ",CD,New Accts,Central,New
+4/29/2019,Friday," 13,500 ",CD,New Accts,North County,Existing
+4/29/2019,Friday," 4,535 ",Checking,New Accts,North County,New
+4/29/2019,Friday," 12,000 ",Checking,New Accts,Central,Existing
+4/29/2019,Friday," 13,583 ",CD,Teller,Central,New
+4/29/2019,Friday," 14,644 ",CD,New Accts,Westside,New
+4/29/2019,Friday," 1,946 ",Checking,New Accts,Central,New
+4/29/2019,Friday," 90,000 ",CD,New Accts,Central,Existing
+4/29/2019,Friday," 1,946 ",Checking,New Accts,Central,Existing
+4/29/2019,Friday," 3,728 ",Checking,Teller,Central,Existing
+4/29/2019,Friday," 4,535 ",Checking,New Accts,North County,Existing
+4/29/2019,Friday," 4,785 ",Savings,Teller,Westside,New
+4/29/2019,Friday, 100 ,Checking,New Accts,Central,Existing
+4/29/2019,Friday," 1,000 ",Checking,New Accts,Central,Existing
+4/30/2019,Saturday," 11,632 ",Checking,New Accts,Central,Existing
+4/30/2019,Saturday," 6,144 ",CD,Teller,Central,New
+4/30/2019,Saturday," 7,000 ",IRA,New Accts,North County,Existing
+4/30/2019,Saturday," 4,257 ",Savings,New Accts,Westside,Existing
+4/30/2019,Saturday, 400 ,Checking,Teller,Central,Existing
+4/30/2019,Saturday," 12,673 ",Checking,New Accts,Westside,New
+4/30/2019,Saturday," 4,000 ",Checking,Teller,North County,Existing
