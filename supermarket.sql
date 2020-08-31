@@ -178,6 +178,26 @@ inner join customer_20_60 as b
 on a.customer_id = b.customer_id
 order by customer_id;
 
+
+/*SELF JOIN
+Example:The following SQL statement matches customers that are from the same city:
+*/
+
+/*way1:*/
+SELECT A.customer_name AS CustomerName1, B.customer_name AS CustomerName2, A.City
+FROM Customer A, Customer B
+WHERE A.Customer_id <> B.Customer_id
+AND A.City = B.City
+ORDER BY A.City;
+
+/*Another way to use self join*/
+
+SELECT A.customer_name AS CustomerName1, B.customer_name AS CustomerName2, A.City
+FROM Customer A 
+inner join Customer B
+on A.Customer_id <> B.Customer_id AND A.City = B.City
+ORDER BY A.City;
+
 /* CROSS Example:*/
 
 create table month_values (MM integer);
